@@ -1,4 +1,4 @@
-package SingletonDemo;
+package singletonDemo;
 
 //This is also a bit slow due to locking mechanism in multithreaded environment
 public class DoubleCheckLocking {

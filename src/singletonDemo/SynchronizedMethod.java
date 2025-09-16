@@ -1,4 +1,4 @@
-package SingletonDemo;
+package singletonDemo;
 
 //This approach will work in multi threaded environment
 //but it will be too slow because we are using synchronised at method level

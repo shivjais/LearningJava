@@ -1,4 +1,4 @@
-package SingletonDemo;
+package singletonDemo;
 
 //In this approach we are creating the object irrespective of whether we need it or not
 public class EagerInitialization {

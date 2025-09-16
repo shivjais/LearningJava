@@ -1,4 +1,4 @@
-package SingletonDemo;
+package singletonDemo;
 
 //This approach will fail for multithreaded in environment
 //this will create two diff objects

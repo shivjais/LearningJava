@@ -1,4 +1,4 @@
-package SingletonDemo;
+package singletonDemo;
 //this uses the concept of eager initialization & it is very fast
 public class BillPughSolution {
 
