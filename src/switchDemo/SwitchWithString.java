@@ -12,7 +12,7 @@ public class SwitchWithString {
             case "March":
                 System.out.println("Month Value is in Q1");
                 break;
-            //multiple case can also define in this way
+            //multiple case can also define in this way, this way is introduced in java14
             case "April", "May", "June":
                 System.out.println("Month Value is in Q2");
                 break;
