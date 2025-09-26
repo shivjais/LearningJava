@@ -1,4 +1,4 @@
-package SequencedCollections;
+package sequencedCollections;
 
 import java.util.*;
 
